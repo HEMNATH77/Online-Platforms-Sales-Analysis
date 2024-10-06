@@ -1,5 +1,4 @@
 # Online Platforms Sales Analysis
-# Data Analysis Project
 
 ## Overview
 
